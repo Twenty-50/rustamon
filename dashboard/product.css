@@ -61,3 +61,21 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #0056b3;
 }
+
+.btn {
+    padding: 13px;
+    color: var(--green);
+    border: 2px inset var(--green);
+    background-color: var(--white);
+    font-size: 18px;
+    border-radius: 14px;
+  }
+  
+  .btn:hover {
+    color: var(--white);
+    border: 2px inset var(--white);
+    background-color: var(--green);
+    font-size: 18px;
+    transition: 0.5s;
+    cursor: pointer;
+  }

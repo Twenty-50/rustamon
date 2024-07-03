@@ -308,3 +308,20 @@ a{
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
+.btn {
+    padding: 13px;
+    color: var(--green);
+    border: 2px inset var(--green);
+    background-color: var(--white);
+    font-size: 18px;
+    border-radius: 14px;
+  }
+  
+  .btn:hover {
+    color: var(--white);
+    border: 2px inset var(--white);
+    background-color: var(--green);
+    font-size: 18px;
+    transition: 0.5s;
+    cursor: pointer;
+  }
