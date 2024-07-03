@@ -1,0 +1,310 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    margin-left: 20px;
+    background-image: url("../amazon/dokan.png");
+    background-size: cover;
+    height: 50px;
+    width: 80px;
+    border-radius: 50px;
+}
+
+
+.border{
+    border: 1.5px solid transparent ;   
+}
+
+.border:hover{
+    border: 1.5px solid white;
+    cursor: pointer;
+}
+
+/* box2 */
+
+.add-first{
+color: #cccccc;
+font-size: 0.8rem;
+margin-left: 15px;
+}
+.add-second{
+ font-size: 1rem;
+ margin-left: 5px;
+}
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+/* box 3 */
+.nav-search{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: orange;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+}
+.Search-select{
+  background-color: #f3f3f3;
+  width: 120px;
+  text-align: center;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border: none;
+}
+.search-input{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+
+.search-icon{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: #0f1111;
+    /* background-color: #febd68; */
+}
+
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
+/* box 4 */
+span{
+    font-size: 0.7rem;
+}
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.nav-second a{
+    text-decoration: none;
+    color: #cccccc;
+    transition: 0.7s;
+}
+
+
+
+/* //////////////// */
+.hw, .h4{
+    
+    color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+.h4{
+    Text-decoration: underline;
+}
+
+#sign{
+    position:absolute;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin-top: -54px;
+    margin-left: 65.2rem;
+    height: 150px;
+    width:265px;
+    border-color: #0f1111;
+    border-radius: 2px;
+    
+    
+} 
+.bb{
+    height: 19px;
+    background-color: rgb(21, 21, 21);
+    border-radius: 8px solid #0f1111;
+    color: white;
+}
+.h4 a{
+    color: black;
+}
+
+#m3:hover {
+    color: purple;
+
+   
+}
+
+.sup {
+    margin-left: 55px;
+    border-radius: 4px solid black;
+    align-items: center;
+    margin-top: 10px;
+    background-color: yellow;
+    color: black;
+    height: 30px;
+    width: 150px;
+    
+}
+
+.sup a{
+    color:black;
+}
+
+
+/* ////////////////////////////////////////////// */
+.nav-second a:hover{
+    color: purple;
+
+}
+
+
+
+/* box 6 */
+.nav-cart i{
+    font-size: 27px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* Panel */
+.panel{
+    height: 40px;
+    background-color:#222f32;
+    display: flex;
+    color: #f3f3f3;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.panel-all{
+    padding:1% ;
+}
+
+.panel-opt p{
+    display: inline;
+    margin-left: 20px;
+}
+
+.panel-opt{
+    width: 75%;
+    font-size: 0.85rem;
+}
+.l1 a{
+    color: white;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+    padding: 1%;
+}
+.panel:hover{
+    cursor: pointer;
+}
+a{
+    color: white;
+}
+
+
+
+/* Footer */
+.footer{
+    margin-top:200 px;
+}
+
+.foot-panel1{
+    background-color: #37475A;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+.foot-panel1 a{
+        color: white;
+}
+
+
+.foot-panel2{
+    background-color: #222f32;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.foot-panel2 ul{
+    margin-top: 20px;
+}
+
+.foot-panel2 ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+.foot-panel3{
+    background-color: #222f32;
+    color: white;
+    border-top: 0.5px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo1{
+ background-image: url("../amazon/dokan.png");
+ border-radius: 40px;
+ margin-top: 10px;
+ background-size: cover;
+ height: 50px;
+ width: 80px;
+}
+
+.foot-panel4{
+    background-color:#0f1111 ;
+    color: #f3f3f3;
+    height: 80px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center;  */
+} 
+
+.pages{
+  font-size: 0.75rem;
+  text-align: center;
+  padding-top: 25px;
+}
+.pages i{
+    font-size: medium;
+    margin-right: 3%;
+    text-align: center;
+}
+.copyright{
+  padding-top: 5px;
+  font-size: 0.75rem;
+  text-align: center;
+}
+a{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}

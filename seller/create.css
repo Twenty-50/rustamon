@@ -1,0 +1,47 @@
+.container{
+    margin-top:50px;
+    margin-left:500px;
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 40px;
+}
+
+.s1,.s2 ,.s3{
+    margin-top: 40px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    height: 60px;
+    width: 350px;
+    
+}
+.btn{
+    margin-top: 40px;
+    margin-left:20px;
+    height: 70px;
+    width: 400px;
+    background-color: black;
+    color: white;
+    font-size: 20PX;
+}
+.btn a{
+    color: white;
+}
+h1{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+.fotter{
+    margin-top: 60px;
+}
+
+.ca{
+    margin-top:40px;
+}
+.gor input{
+    margin-top: 10px;
+    margin-left:20px ;
+}

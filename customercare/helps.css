@@ -1,0 +1,30 @@
+.cc{
+    margin-top: 20px;
+    margin-bottom:30px ;
+    height: 350px;
+    width: 700px;
+    margin-left: 450px;
+    background-color: rgb(16, 156, 199);
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+}
+.greatin{
+    font-size: 30px;
+}
+.post{
+    font-size: 20px;
+    background-color: yellow;
+}
+.num{
+    text-align: left;
+    padding-top: 10px;
+    margin-left:170px ;
+    font-size: 30px;
+}
+.tha{
+    font-size: 20px;
+    background-color: yellow;
+    margin-left:190px ;
+    width: 300px;
+}

@@ -1,0 +1,40 @@
+.oh{
+    font-size: 40px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+
+}
+
+.indash{
+    margin-left: 70px;
+    margin-top: 20px;
+    height: 770px;
+    width: 90%;
+    background-color: rgb(255, 46, 46);
+ 
+}
+.bt{
+    height: 70px;
+    width: 190px;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.hea{
+    font-family:sans-serif;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+.dis img{
+    height:400px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 110px;
+    border:  1px solid rgb(0, 0, 0);
+    
+}
+
+.fotter{
+    margin-top: 40px;
+}

@@ -1,0 +1,58 @@
+.cont1{
+    height: 450px;
+    width: 500px;
+    margin-top:40px;
+    margin-left:550px;
+    background-color: red;
+    
+}
+
+.btn3{
+    margin-top:70px;
+    height:50px;
+    width: 300px;
+    margin-left: 100px;
+
+}
+
+.m1 ,.opt{
+    height:40px;
+    width: 250px;
+    background-color: white;
+    border:1px solid black;
+    text-align: center;
+    color :black;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-left: 130px;
+
+
+
+}
+
+.s1, .btn4{
+    margin-top: 60px;
+    height:50px;
+    width: 300px;
+    text-align: center;
+    color: black;
+    background-color: rgb(247, 239, 239);
+    margin-left: 170px;
+
+}
+.end{
+    width: 100px;
+    margin-left: 195px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 40px;
+    height: 40px;
+
+}
+
+
+
+.fotter{
+    margin-top: 100px;
+}
